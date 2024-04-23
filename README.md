@@ -27,7 +27,7 @@ To get A04 up and running on your local machine, follow these simple steps:
 
 ## APIs Used
 
-- **Picsum Photos**: For fetching the static image.
+- **Picsum Photos**: For fetching the static image. (Lorem Picsum)
 - **icanhazdadjoke**: For fetching random dad jokes in plain text format.
 
 ## Project Structure
